@@ -1,14 +1,21 @@
 # Authorization form :lock:
-This is a simple authorization form I've made because I've been told to.
+This is a simple authorization form I've made because I really wanted to create something on my own.
 
 Good news is it's not that shitty as I thought it would be :sweat_smile:
 
-## How to use 
-Just download all of my 3 awesome files (including one ugly css file). Then click on form.html file. Enjoy cool animation in input fields!
-I hope you like it (but i doubt it)!
+## About :memo:
+The authorization form has 2 awesome unput fields with cool animation! One is for login, another - for password (impressive, isn't it?). Moreover, you can click on "Submit" button and see values from input fields displayed on the web console.
 
-## By the way
-It looks ugly everywhere except of desktop version (but I'm not sure about that either).
+My next step is to get understanding of REST API. 
+
+## Stack :woman_technologist:
+- JavaScript 
+- HTML
+- CSS
+
+## What I really like :sparkles:
+- beautiful colorful gradient background and button...
+I hope you like it as much as I do! Otherwise I'm not sure we can be friends...
 
 # Author :upside_down_face:
  - Github.com: [Me](https://github.com/vlrsmlkv/)

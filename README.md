@@ -4,9 +4,9 @@ This is a simple authorization form I've made because I really wanted to create 
 Good news is it's not that shitty as I thought it would be :sweat_smile:
 
 ## About :memo:
-The authorization form has 2 awesome unput fields with cool animation! One is for login, another - for password (impressive, isn't it?). Moreover, you can click on "Submit" button and see values from input fields displayed on the web console.
+The authorization form has 2 awesome input fields with cool animation! One is for login, another - for password (impressive, isn't it?). Moreover, you can click on "Submit" button and see values from input fields displayed on the web console.
 
-My next step is to get understanding of REST API. 
+My next step is to get understanding of REST API so I can submit my form and authorization data to the server. 
 
 ## Stack :woman_technologist:
 - JavaScript 

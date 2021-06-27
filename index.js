@@ -51,8 +51,6 @@ function inputComponent(name, type = "text", value = "", placeholder) {
     let div = document.createElement("div");
     div.classList.add("input-field");
 
-    // let labelName = document.createElement("label");
-    // labelName.appendChild(document.createTextNode (label));
     let span = document.createElement("span");
 
     let inputField = document.createElement("input");
@@ -66,7 +64,6 @@ function inputComponent(name, type = "text", value = "", placeholder) {
     inputField.autocomplete = "off";
     inputField.placeholder = placeholder;
 
-    // div.appendChild(labelName);
     div.appendChild(inputField);
     div.appendChild(span);
 
